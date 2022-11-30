@@ -1,6 +1,6 @@
 # Won Jong Jeon
 
-##### Email: [wjjeon@gmail.com](mailto:wjjeon@gmail.com), Phone: [408-318-0428](tel:4083180428), CV: [https://wonjeon.github.io/](https://wonjeon.github.io/), LinkedIn: [https://www.linkedin.com/in/wjeon](https://www.linkedin.com/in/wjeon)
+##### Email: [wjjeon@gmail.com](mailto:wjjeon@gmail.com), LinkedIn: [https://www.linkedin.com/in/wjeon](https://www.linkedin.com/in/wjeon)
 
 
 ---
