@@ -105,7 +105,8 @@ Thesis: Study on Classification for Extracting Science and Technology-related Hu
 
 Advisor: Prof. Hyeran Byun
 
-### Honors and awards
+---
+## Honors and awards
 - Best newcomer winner list, Huawei Technologies, 2019.
 - Organizational climate development award, Huawei Technologies, 2018.
 - Bronze award, Samsung best paper award, Samsung Electronics, November 2011.
@@ -113,13 +114,15 @@ Advisor: Prof. Hyeran Byun
 - University academic award, Yonsei University, August 1997.
 - University scholarship, Yonsei University, March 1993 - August 1997.
 
-### Technical Skills
+---
+## Technical Skills
 - Programming languages: C/C++ (main), Python, Java
 - Programming libraries: OpenCL, CUDA, TensorFlow, PyTorch, MXNet, TVM, Caffe, DPDK, WebKit
 - Development and management tools: Git, Jenkins, Jira, Portage, Open Embedded
 - Operating systems: Linux (Ubuntu, Debian, Gentoo), Android
 
-### Publications
+---
+## Publications
 
 - Gangwon Jo, **Won Jong Jeon**, Wookeun Jung, Gordon Taft, and Jaejin Lee, "[OpenCL Framework for ARM Processors with NEON Support](https://dl.acm.org/doi/10.1145/2568058.2568064)", in Proceedings of Workshop on Programming Models for SIMD/Vector Processing (WPMVP), Orlando, Florida, February 2014.
 - Diego Argueta, Yu-Ta Lu, Jing Ma, Diego Rodriguez, Yuan-Hung Yang, Thomas Phan, and **Won Jeon**, "[Enhancing the Restaurant Dining Experience with an NFC-Enabled Mobile User Interface](https://eudl.eu/doi/10.1007/978-3-319-05452-0_29)", in Proceedings of Workshop on the Near Field Communication for Mobile Applications, co-located with Fifth International Conference on Mobile Computing, Applications and Services (MobiCASE), Paris, France, 2013.
@@ -150,7 +153,8 @@ Advisor: Prof. Hyeran Byun
 - **Won J. Jeon** and Mark D. Wood, “Multimedia-enhanced Web Service”, Technical Report, Eastman Kodak Research & Development, August, 2000.
 - **Won J. Jeon** and Kuniyasu Suzaki, “Problems on Porting DSRT2 to Linux”, Technical Report, Electrotechnical Laboratory, August, 1999.
 
-### Patents
+---
+## Patents
 
 - Stanislaw Antol, Abhijit Bendale, Simon J. Gibbs, **Won J. Jeon**, Hyun Jae Kang, Jihee Kim, Bo Li, Anthony S. Liot, Lu Luo, Pranav K. Mistry, and Zhihan Ying, “Vision intelligence management for electronic devices”, July 19, 2018, US20180204061 A1.
 - Thomas Phan and **Won Jeon**, “Using physical sensory input to determine human response to multimedia content displayed on a mobile device”, issued on January 26, 2015, US9241664.
