@@ -34,10 +34,10 @@ Worked on:
 - High availability for distributed knowledge base system.
 - Multi-threaded network processing framework for exokernel-like OS.
 - University collaboration on parallel web language (with UC Berkeley).
-- OpenCL compiler and runtime development on ARM for Tizen/Android (productized as Accelerated Computing Add-on SDK for Tizen; collaboration with Seoul National University)
-- WebCL prototype development and standardization in Khronos (as a main contributor).
+- OpenCL compiler and runtime development on ARM for Tizen/Android (productized as [Accelerated Computing Add-on SDK](https://developer.tizen.org/downloads/2.2.1-add-on-sdks#opencl) for Tizen; collaboration with Seoul National University)
+- [WebCL](https://registry.khronos.org/webcl/specs/1.0.0/) prototype development and standardization in Khronos (as a main contributor).
 Co-mentored:
-- A group of students registered to Stanford CS210 (Software project experience with corporate partners), spring 2011.
+- A group of students registered to Stanford [CS210](http://web.stanford.edu/class/cs210/) (Software project experience with corporate partners), spring 2011.
 
 ### [University of Illinois at Urbana-Champaign](https://illinois.edu/), Urbana, IL
 
@@ -67,7 +67,7 @@ Conducted research on:
 - Soft real-time CPU scheduler for Linux.
 
 #### Teaching Assistant, January 2004 - May 2004
-- Directed and evaluated student homework, exams, and projects in CS314 Multimedia Systems and Design.
+- Directed and evaluated student homework, exams, and projects in CS314 (known as [CS414](https://cs.illinois.edu/academics/courses/cs414) now) Multimedia Systems and Design.
 
 ### [Eastman Kodak](https://www.kodak.com/en) Research & Development, Rochester, NY
 
@@ -138,7 +138,8 @@ Advisor: Prof. Hyeran Byun
 - **Won J. Jeon**, Kyungtae Kang, Roy H. Campbell, and Klara Nahrstedt, “[Simulation Framework and Performance Analysis of Multimedia Broadcasting Service over Wireless Networks](https://ieeexplore.ieee.org/document/5158413)”, in Proceedings of IEEE International Conference on Distributed Computing Systems (ICDCS), 2009. (Acceptance rate: 17%)
 - Shu Shi, **Won J. Jeon**, Klara Nahrstedt, and Roy H. Campbell, “[M-TEEVE: Real-Time 3D Video Interaction and Broadcasting Framework for Mobile Devices](https://eudl.eu/doi/10.4108/icst.immerscom2009.6299)”, in Proceedings of ICST International Conference on Immersive Telecommunications (IMMERSCOM), 2009.
 - Jaesik Choi, **Won J. Jeon**, and Sang-Chul Lee, “[Spatio-temporal Pyramid Matching for Sports Videos](https://dl.acm.org/doi/10.1145/1460096.1460144)”, in Proceedings of ACM SIGMM International Conference on Multimedia Information Retrieval (MIR), 2008. (Acceptance rate: 21%)
-- **Won J. Jeon** and Roy H. Campbell, “Support for Mobile Augmented and Synthesized Worlds”, Department of Computer Science Report UIUCDCS-R-2007-2939, University of Illinois at Urbana-Champaign, December 2007.� Won J. Jeon, “Optimization Strategies for QoS-sensitive VoD Service Delivery in Cooperative Environments”, PhD thesis, Department of Computer Science, University of Illinois at Urbana-Champaign,
+- **Won J. Jeon** and Roy H. Campbell, “Support for Mobile Augmented and Synthesized Worlds”, Department of Computer Science Report UIUCDCS-R-2007-2939, University of Illinois at Urbana-Champaign, December 2007.
+- **Won J. Jeon**, “Optimization Strategies for QoS-sensitive VoD Service Delivery in Cooperative Environments”, PhD thesis, Department of Computer Science, University of Illinois at Urbana-Champaign,
 2007.
 - **Won J. Jeon**, Indranil Gupta, and Klara Nahrstedt, “[QoS-aware Object Replication in Overlay Networks](https://ieeexplore.ieee.org/document/4150832)”, in Proceedings of IEEE GLOBECOM Technical Conference, San Francisco, CA, November 27 - December 1, 2006.
 - Albert F. Harris, **Won J. Jeon**, Daniel Sachs, Vibhore Vardhan, Sarita Adve, Douglas Jones, Robin Kravets, and Klara Nahrstedt, “The Illinois GRACE Project: Energy-efficient Cross-layer System Design”, ACM SIGMOBILE Annual International Conference on Mobile Computing and Networking (MobiCom) (demo), August 28 - September 2, 2005.
