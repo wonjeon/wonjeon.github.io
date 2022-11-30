@@ -69,7 +69,7 @@ Conducted research on:
 - Soft real-time CPU scheduler for Linux.
 
 #### Teaching Assistant, January 2004 - May 2004
-- Directed and evaluated student homework, exams, and projects in CS314 (known as [CS414](https://cs.illinois.edu/academics/courses/cs414) now) Multimedia Systems and Design.
+- Directed and evaluated student homework, exams, and projects in CS314 (later changed to [CS414](https://cs.illinois.edu/academics/courses/cs414)) Multimedia Systems and Design.
 
 ### [Eastman Kodak](https://www.kodak.com/en) Research & Development, Rochester, NY
 
