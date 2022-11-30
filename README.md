@@ -15,8 +15,10 @@ To seek a challenging opportunity in software research and development in the ar
 
 #### Principal Engineer, December 2017 - Present
 
-- Working on distributed deep learning systems.
-- Worked on language runtime engines for Java and JavaScript.
+- Working on enhancement of distributed training for MindSpore AI framework.
+- Worked on development of Maple Java and JavaScript Engine.
+- Contributed to Chromium OS port to RISC-V platform.
+- Participated in initial design and prototype development of MindSpore AI framework.
 
 ### [Samsung Research America](https://www.sra.samsung.com/), Mountain View, CA
 
@@ -53,7 +55,7 @@ Conducted research on:
 
 #### Senior Software Engineer, August 2006 - August 2007
 
-- Designed, implemented, and tested Bluetooth connectivity software of CDMA cellular phones.
+- Designed, implemented, and tested Bluetooth connectivity software of Motorola Razr and Rizr phones.
 
 ### [University of Illinois at Urbana-Champaign](https://illinois.edu/), Urbana, IL
 
@@ -107,12 +109,13 @@ Advisor: Prof. Hyeran Byun
 
 ---
 ## Honors and awards
-- Best newcomer winner list, Huawei Technologies, 2019.
-- Organizational climate development award, Huawei Technologies, 2018.
-- Bronze award, Samsung best paper award, Samsung Electronics, November 2011.
-- Kodak fellowship, Eastman Kodak Company, August 2000 - January 2014.
-- University academic award, Yonsei University, August 1997.
-- University scholarship, Yonsei University, March 1993 - August 1997.
+- Gold Team Award, Futurewei Technologies, May 2021.
+- Best Newcomer Winner List, Huawei Technologies, 2019.
+- Organizational Climate Development Award, Huawei Technologies, 2018.
+- Bronze Award, Samsung Best Paper Award, Samsung Electronics, November 2011.
+- Kodak Fellowship, Eastman Kodak Company, August 2000 - January 2014.
+- University Academic Award, Yonsei University, August 1997.
+- University Scholarship, Yonsei University, March 1993 - August 1997.
 
 ---
 ## Technical Skills
