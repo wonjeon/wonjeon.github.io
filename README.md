@@ -17,7 +17,6 @@ To seek a challenging opportunity in software research and development in the ar
 
 - Working on enhancement of distributed training for MindSpore AI framework.
 - Worked on development of Maple Java and JavaScript Engine.
-- Contributed to Chromium OS port to RISC-V platform.
 - Participated in initial design and prototype development of MindSpore AI framework.
 
 ### [Samsung Research America](https://www.sra.samsung.com/), Mountain View, CA
@@ -113,7 +112,7 @@ Advisor: Prof. Hyeran Byun
 - Best Newcomer Winner List, Huawei Technologies, 2019.
 - Organizational Climate Development Award, Huawei Technologies, 2018.
 - Bronze Award, Samsung Best Paper Award, Samsung Electronics, November 2011.
-- Kodak Fellowship, Eastman Kodak Company, August 2000 - January 2014.
+- Kodak Fellowship, Eastman Kodak Company, August 2000 - January 2004.
 - University Academic Award, Yonsei University, August 1997.
 - University Scholarship, Yonsei University, March 1993 - August 1997.
 
