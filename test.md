@@ -1,3 +1,3 @@
 test code
-```c++:./test.c++
+```c++:test.c++
 ```
